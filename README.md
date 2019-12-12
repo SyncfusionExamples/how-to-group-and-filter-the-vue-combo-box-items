@@ -1,4 +1,4 @@
-# How to Group and Filter the Syncfusion Vue ComboBox Items
+# How to Group and Filter the Vue ComboBox Items of Syncfusion
 
 Get a quick overview on how to group and filter items in Vue ComboBox. You will learn how to group the Vue ComboBox items as well as how to filter those items. You will also see different filter types in the ComboBox, how to apply those filters to items, and how to include diacritic characters.
  
@@ -6,7 +6,7 @@ Examples:
 https://ej2.syncfusion.com/vue/demos/#/material/combo-box/grouping-icon.html
 https://ej2.syncfusion.com/vue/demos/#/material/combo-box/filtering.html
 
-Documentatio Link: 
+Documentation Link: 
 https://ej2.syncfusion.com/vue/documentation/combo-box/grouping
 https://ej2.syncfusion.com/vue/documentation/combo-box/filtering
 
